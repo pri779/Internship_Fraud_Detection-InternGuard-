@@ -50,9 +50,9 @@ The system uses a machine learning model trained on 295 internship listings to i
 - **Deployment**: Hugging Face Spaces
 
 ## 🔗 Links
-- **Live Demo**: [Your Hugging Face Space URL]
-- **Dataset**: 295 internship listings with fraud labels
-- **GitHub**: [Your Repository Link]
+- **Live Demo**:https://huggingface.co/spaces/PRIYA1312/internship-fraud-detector
+- **Dataset**: title	company_name	email	website	description	stipend	registration_fee	duration	location	selection_process	skills_required	fraudulent
+- **GitHub**: https://github.com/pri779/Internship_Fraud_Detection-InternGuard
 
 ## 📝 License
 MIT License - Free for educational and personal use
@@ -63,6 +63,6 @@ MIT License - Free for educational and personal use
 - Hosted on **Hugging Face Spaces** for deployment
 - Created to protect students from internship scams
 
----
+---e
 
 **⚠️ Disclaimer**: This tool provides AI-powered guidance only. Always conduct thorough research before accepting any internship offer.
