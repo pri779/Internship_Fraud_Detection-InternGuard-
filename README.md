@@ -52,7 +52,7 @@ The system uses a machine learning model trained on 295 internship listings to i
 ## 🔗 Links
 - **Live Demo**:https://huggingface.co/spaces/PRIYA1312/internship-fraud-detector
 - **Dataset**: title	company_name	email	website	description	stipend	registration_fee	duration	location	selection_process	skills_required	fraudulent
-- **GitHub**: https://github.com/pri779/Internship_Fraud_Detection-InternGuard
+- **GitHub**:https://github.com/pri779/Internship_Fraud_Detection-InternGuard-
 
 ## 📝 License
 MIT License - Free for educational and personal use
